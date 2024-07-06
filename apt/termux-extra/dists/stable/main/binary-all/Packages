@@ -1,0 +1,15 @@
+Package: oneshot
+Architecture: all
+Maintainer: Rem01Gaming
+Installed-Size: 650
+Version: 1.0.1
+Homepage: https://github.com/Rem01Gaming/oneshot
+Depends: python, pixiewps, wpa-supplicant, tsu, iw
+Description: Run WPS PIN attacks (Pixie Dust and bruteforce) without monitor mode with wpa_supplicant
+Filename: dists/stable/main/binary-all/oneshot.deb
+Size: 13856
+MD5Sum: 5f0e8d0a465ad7a64c2354e2b9b28f99
+SHA1: ea587e834a14a2f8330ebbc1692a7dabe29e4f98
+SHA256: 1c6155016825d0f07892ca47c5730714affbb650eb47d54c21ccd47524050d3a
+SHA512: 5d9e35f78682054037f28e056eed3f81860249b7813e932b0eaaa463a4f978b41b379f7ca066edc85b356d4dbba765a7fbff7df3682b70b0102b1f514120d266
+
